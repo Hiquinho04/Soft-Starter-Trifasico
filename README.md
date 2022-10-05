@@ -6,7 +6,7 @@ Este projeto foi desenvolvido com o intuito de complementar o ensino dos conteú
       Rampa de Aceleração variável - 5 a 50 segundos
       Rampa de Desacelaração variável - 5 a 50 segundos
       Circuito proteção de sobrecorrente
-      Circuito detecção falta de fase
+      Circuito de ByPass
       
 Projeto desenvolvido utilizando o STM32CubeIDE.
 
